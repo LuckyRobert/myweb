@@ -9,4 +9,9 @@ package com.db.action;
  * To change this template use File | Settings | File Templates.
  */
 public class TestAction {
+
+
+    public static void main(String[] args) {
+
+    }
 }
