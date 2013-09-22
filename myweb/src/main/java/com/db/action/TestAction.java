@@ -17,6 +17,6 @@ public class TestAction {
         System.out.println("Aaaaaaa");
     }
     public void test(){
-        
+        System.out.println("CCCC");
     }
 }
