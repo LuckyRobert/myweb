@@ -13,5 +13,7 @@ public class TestAction {
 
     public static void main(String[] args) {
         System.out.println("---------------");
+        System.out.println("Bbbbbbbb");
+        System.out.println("Aaaaaaa");
     }
 }
