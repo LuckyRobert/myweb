@@ -18,5 +18,6 @@ public class TestAction {
     }
     public void test(){
         System.out.println("CCCC");
+        System.out.println("DDDDD");
     }
 }
